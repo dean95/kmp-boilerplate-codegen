@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.dean95.kmpboilerplatecodegen
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template.listeners
+package com.github.dean95.kmpboilerplatecodegen.listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger
